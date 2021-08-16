@@ -5,7 +5,7 @@
     -- Email bianca.zavadisk@gmail.com;
     -- Discord lost ghost#9824
 
-- 👋 OHi, I'm Bianca Zavadisk
+- 👋 Hi, I'm Bianca Zavadisk
 - 👀 I’m interested in learning and improve my knowledge at programming and Data Science.
 - 🌱 I’m currently learning Front-End Languages by Edutech.
 - 📫 How to reach me:
