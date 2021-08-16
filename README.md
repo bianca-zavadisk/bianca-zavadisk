@@ -4,6 +4,8 @@
 - 📫 Como me contatar:
     -- Email bianca.zavadisk@gmail.com;
     -- Discord lost ghost#9824
+    
+ --------------------------------------------------------------------
 
 - 👋 Hi, I'm Bianca Zavadisk
 - 👀 I’m interested in learning and improve my knowledge at programming and Data Science.
